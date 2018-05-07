@@ -32,6 +32,10 @@ Tools/Packages featuring :-
 * Stacer
 * MOC Music Player
 * Peek
+
+P.S. Gparted will not be removed after installation
+
+MD5 Checksum -> dcfb16733571caeebe025957e9f86db6
  
  
 
