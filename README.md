@@ -6,6 +6,7 @@ Additional Windows 10 Themes & icons from https://www.2daygeek.com/install-windo
 Snap Store included also :)
 
 Tools/Packages featuring :-
+
 * Eclipse
 * Nano
 * Gcc
@@ -33,7 +34,7 @@ Tools/Packages featuring :-
 * MOC Music Player
 * Peek
 
-P.S. Gparted will not be removed after installation
+P.S. Package  Gparted will not be removed after installation
 
 MD5 Checksum -> dcfb16733571caeebe025957e9f86db6
  
