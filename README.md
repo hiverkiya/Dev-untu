@@ -1,4 +1,10 @@
-# Dev-untu
+# Dev-untu 
+[![GitHub license](https://img.shields.io/github/license/Verkiya/Dev-untu.svg)](https://github.com/Verkiya/Dev-untu/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Verkiya/Dev-untu.svg)](https://github.com/Verkiya/Dev-untu/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Verkiya/Dev-untu.svg)](https://github.com/Verkiya/Dev-untu/network)
+[![GitHub stars](https://img.shields.io/github/stars/Verkiya/Dev-untu.svg)](https://github.com/Verkiya/Dev-untu/stargazers)
+
+
 Custom Distro featuring programming tools based on  "Ubuntu-GNOME 16.04.3 2018.05.07 LTS amd64"
 
 Additional Windows 10 Themes & icons from https://www.2daygeek.com/install-windows-10-theme-icon-theme-on-ubuntu-fedora-debian-centos-opensuse-mageia-arch-linux-mint/
