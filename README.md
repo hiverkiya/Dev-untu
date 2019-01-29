@@ -10,13 +10,13 @@ Featuring a GNOME Desktop Environment it includes additional third-party and oth
 
  - DEV-UNTU is pre-installed with the following tools:-
 
-|  |  |  |  |  |  |
+|***** |*****  |*****  |*****  |*****  |*****  |
 |--|--|--|--|--|--|
-|Eclipse  |Snap-Store  |Bleachbit|Geany|Sublime-Text
-|Gdebi Package Manager|Synaptic Package Manager|Steam|Brackets|Bleachbit
-|Geany|Knotes|Conky|Xpad|VLC
-|Atom|Sublime-text|VS Code|Stacer|Google Chrome
-|Wine Emulator Program|Vivaldi|Opera|MOC Music Player|GParted
+|Eclipse  |Snap-Store  |Bleachbit|Geany|Sublime-Text|***** 
+|Gdebi Package Manager|Synaptic Package Manager|Steam|Brackets|Bleachbit|***** 
+|Geany|Knotes|Conky|Xpad|VLC|***** 
+|Atom|Sublime-text|VS Code|Stacer|Google Chrome|***** 
+|Wine Emulator Program|Vivaldi|Opera|MOC Music Player|GParted|***** 
 
 
 ## INSTALLATION
