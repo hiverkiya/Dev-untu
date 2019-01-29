@@ -6,7 +6,7 @@ DEV-UNTU is a custom made distribution based on *Ubuntu-GNOME 16.04.3 2018.05.07
  - DEV-UNTU features GNOME as it's Desktop-Environment.
  - DEV-UNTU is pre-installed with the following tools:-
 
-|||  |||
+|  |  |  |  |  |  |
 |--|--|--|--|--|--|
 |Eclipse  |Snap-Store  |Bleachbit|Geany|Sublime-Text
 |Gdebi Package Manager|Synaptic Package Manager|Steam|Brackets|Bleachbit
