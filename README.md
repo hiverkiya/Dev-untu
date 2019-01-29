@@ -13,32 +13,11 @@ Snap Store included also :)
 
 Tools/Packages featuring :-
 
-* Eclipse
-* Nano
-* Gcc
-* Gdebi Package Manager
-* Synaptic Package Manager
-* Brackets
-* Bleachbit
-* Geany 
-* Nano
-* Gedit
-* Knotes
-* Xpad
-* Vlc
-* Atom
-* Sublime-Text
-* Visual Studio Code
-* Wine Emulator Program
-* Google-Chrome
-* Vivaldi
-* Opera
-* Vim
-* Steam
-* Conky
-* Stacer
-* MOC Music Player
-* Peek
+|     Eclipse    |          Nano         |   Gcc   | Gdebi Package Manager | Synaptic Package Manager | Steam            |
+|:--------------:|:---------------------:|:-------:|:---------------------:|:------------------------:|------------------|
+|    Brackets    |       Bleachbit       |  Geany  |         Gedit         |          Knotes          | Conky            |
+|      Xpad      |          VLC          |  Atom   |      Sublime-Text     |    Visual Studio Code    | Stacer           |
+|  Google Chrome | Wine Emulator Program | Vivaldi |         Opera         |            Vim           | MOC Music Player |
 
 P.S. Package  Gparted will not be removed after installation
 
