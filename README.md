@@ -50,8 +50,6 @@ For CUBIC Installation-
 
 * Project made for Educational-Purposes _only_.
 
-* Download [Dev-untu](https://drive.google.com/file/d/19xwXT-wsziQ9dPhkw6VnYyjx-kHvJNJq/view) 
-
 ## LICENSE
 
 [**MIT**](https://github.com/Verkiya/Dev-untu/blob/master/LICENSE)
