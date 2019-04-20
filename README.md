@@ -30,7 +30,7 @@ Featuring a GNOME Desktop Environment it includes additional third-party and oth
 
 > MD5 Checksum -> dcfb16733571caeebe025957e9f86db6
 
-## BUILT-WITH
+## BUILD PROCESS
 
 DEV-UNTU is built with CUBIC (Custom Ubuntu ISO Creator).
 
