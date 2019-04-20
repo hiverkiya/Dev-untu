@@ -54,8 +54,6 @@ For CUBIC Installation-
 
 [**MIT**](https://github.com/Verkiya/Dev-untu/blob/master/LICENSE)
 
-* Licenses applying to [Ubuntu](https://www.ubuntu.com/) applies to DEV-UNTU as well.
 
-* I in no way take any monetary credits or in any way held responsible for any destructive use of the software.
 
 
