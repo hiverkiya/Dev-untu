@@ -51,9 +51,7 @@ For CUBIC Installation-
 * Project made for Educational-Purposes _only_.
 
 ## LICENSE
-
-[**MIT**](https://github.com/Verkiya/Dev-untu/blob/master/LICENSE)
-
+![MIT](https://img.shields.io/github/license/verkiya/Dev-untu.svg?style=plastic)
 
 
 
