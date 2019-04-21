@@ -30,7 +30,7 @@ DEV-UNTU is a custom made distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
  - Complete the installation by performing on screen operations.
  
 
-> MD5 Checksum -> dcfb16733571caeebe025957e9f86db6
+> MD5 Checksum -> 5250fd5c1a359645e6d46477c9352add
 
 ## BUILD PROCESS
 
