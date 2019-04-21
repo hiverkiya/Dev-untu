@@ -5,6 +5,10 @@ DEV-UNTU is a custom made distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
 ## FEATURES
 
  - Featuring Multiple Desktop Environments : **GNOME** | **Xfce4** | **LXDE** | **Xubuntu-desktop** | **Cinnamon** | **kubuntu**
+ 
+ ![GNOME](https://github.com/verkiya/Dev-untu/blob/master/GNOME.png)
+ 
+ ![KDE Plasma](https://github.com/verkiya/Dev-untu/blob/master/KDE%20Plasma.png)
 
  - DEV-UNTU is pre-installed with the following tools:-
 
@@ -38,7 +42,11 @@ DEV-UNTU is a custom made distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
 
 [Cubic (Custom Ubuntu ISO Creator)](https://launchpad.net/cubic)  is a GUI wizard to create a customized bootable Ubuntu Live CD (ISO) image. Cubic features an integrated command line chroot environment to make the customizations and permits effortless navigation, backward and forward, through the ISO generation steps.
 
+![Cubic](https://github.com/verkiya/Dev-untu/blob/master/cubic.png)
+
 You can create new customization projects or modify existing projects. Important parameters are automatically populated with intelligent defaults to simplify the customization process.
+
+![Cubic Prerequisites](https://github.com/verkiya/Dev-untu/blob/master/cubic%20prerequisites.png)
 
 For CUBIC Installation-
 
