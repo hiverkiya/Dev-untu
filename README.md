@@ -1,16 +1,16 @@
 ![Devuntu Wallpaper](https://github.com/verkiya/Dev-untu/blob/master/Devuntu.jpg)
 
-DEV-UNTU is a custom made distribution based on **Ubuntu-GNOME 16.04.3 2018.05.07 LTS amd64** 
+DEV-UNTU is a Custom Made Distribution based on **Ubuntu-GNOME 16.04.3 2018.05.07 LTS amd64** 
 
 ## FEATURES
 
- - Featuring Multiple Desktop Environments : **GNOME** | **Xfce4** | **LXDE** | **Xubuntu-desktop** | **Cinnamon** | **kubuntu**
+ - Multiple Desktop Environments : **GNOME** | **Xfce4** | **LXDE** | **Xubuntu-Desktop** | **Cinnamon** | **Kubuntu-Desktop**
  
  ![GNOME](https://github.com/verkiya/Dev-untu/blob/master/GNOME.png)
  
  ![KDE Plasma](https://github.com/verkiya/Dev-untu/blob/master/KDE%20Plasma.png)
 
- - DEV-UNTU is pre-installed with the following tools:-
+ - Pre-installed with the following tools:-
 
 |***** |*****  |*****  |*****  |*****  |*****  |
 |--|--|--|--|--|--|
@@ -23,11 +23,11 @@ DEV-UNTU is a custom made distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
 
 ## INSTALLATION
 
- - Download the ISO from the given link [DEV-UNTU](https://drive.google.com/file/d/19xwXT-wsziQ9dPhkw6VnYyjx-kHvJNJq/view?usp=sharing)
+ - Download the ISO from the given link [DEV-UNTU](https://drive.google.com/file/d/1NG8oI4J7oDSYsm51qqj6xCS_Vo9IRrwW/view?usp=sharing)
  
- - For Dual-Boot  , make a bootable USB-drive using Rufus or Etcher.
+ - For Dual-Boot  , make a bootable USB-drive using [Rufus](https://rufus.ie/)
  
- - Complete the installation by performing on screen operations.
+ - Complete the installation by performing on-screen operations.
  
 
 > MD5 Checksum -> 5250fd5c1a359645e6d46477c9352add
