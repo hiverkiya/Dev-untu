@@ -6,7 +6,7 @@ Featuring a GNOME Desktop Environment it includes additional third-party and oth
 
 ## FEATURES
 
- - Featuring Multiple Desktop Environments : **GNOME** , **Xfce4** , **LXDE** ,**Xubuntu-desktop** , **Cinnamon**,**kubuntu**
+ - Featuring Multiple Desktop Environments : **GNOME** | **Xfce4** | **LXDE** | **Xubuntu-desktop** | **Cinnamon** | **kubuntu**
 
  - DEV-UNTU is pre-installed with the following tools:-
 
