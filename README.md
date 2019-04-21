@@ -30,7 +30,11 @@ DEV-UNTU is a custom made distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
 
 ## BUILD PROCESS
 
-DEV-UNTU is built with CUBIC (Custom Ubuntu ISO Creator).
+# Host System Configuration
+
+![hostSystemConfiguration](https://github.com/verkiya/Dev-untu/blob/master/hostSystemConfiguration.png)
+
+**DEV-UNTU is built with CUBIC (Custom Ubuntu ISO Creator)**
 
 [Cubic (Custom Ubuntu ISO Creator)](https://launchpad.net/cubic)  is a GUI wizard to create a customized bootable Ubuntu Live CD (ISO) image. Cubic features an integrated command line chroot environment to make the customizations and permits effortless navigation, backward and forward, through the ISO generation steps.
 
