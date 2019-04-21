@@ -1,8 +1,7 @@
 ## **DEV-UNTU**
+![Devuntu Wallpaper](https://github.com/verkiya/Dev-untu/blob/master/Devuntu.jpg)
 
-DEV-UNTU is a custom made distribution based on *Ubuntu-GNOME 16.04.3 2018.05.07 LTS amd64*. 
-
-Featuring a GNOME Desktop Environment it includes additional third-party and other open-source tools pre-installed to help you get started with basic development work right away.
+DEV-UNTU is a custom made distribution based on **Ubuntu-GNOME 16.04.3 2018.05.07 LTS amd64** 
 
 ## FEATURES
 
