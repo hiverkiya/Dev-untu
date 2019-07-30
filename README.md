@@ -1,4 +1,4 @@
-![Devuntu Wallpaper](https://github.com/verkiya/Dev-untu/blob/master/images/Devuntu.jpg)
+![Devuntu Wallpaper](https://github.com/v3rkiya/Dev-untu/blob/master/images/Devuntu.jpg)
 
 DEV-UNTU is a Custom Made Distribution based on **Ubuntu-GNOME 16.04.3 2018.05.07 LTS amd64** 
 
@@ -6,9 +6,9 @@ DEV-UNTU is a Custom Made Distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
 
  - Multiple Desktop Environments : **GNOME** | **Xfce4** | **LXDE** | **Xubuntu-Desktop** | **Cinnamon** | **Kubuntu-Desktop**
  
- ![GNOME](https://github.com/verkiya/Dev-untu/blob/master/images/GNOME.png)
+ ![GNOME](https://github.com/v3rkiya/Dev-untu/blob/master/images/GNOME.png)
  
- ![KDE Plasma](https://github.com/verkiya/Dev-untu/blob/master/images/KDE%20Plasma.png)
+ ![KDE Plasma](https://github.com/v3rkiya/Dev-untu/blob/master/images/KDE%20Plasma.png)
 
  - Pre-installed with the following tools:-
 
@@ -36,17 +36,17 @@ DEV-UNTU is a Custom Made Distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
 
 # Host System Configuration
 
-![hostSystemConfiguration](https://github.com/verkiya/Dev-untu/blob/master/images/hostSystemConfiguration.png)
+![hostSystemConfiguration](https://github.com/v3rkiya/Dev-untu/blob/master/images/hostSystemConfiguration.png)
 
 **DEV-UNTU is built with CUBIC (Custom Ubuntu ISO Creator)**
 
 [Cubic (Custom Ubuntu ISO Creator)](https://launchpad.net/cubic)  is a GUI wizard to create a customized bootable Ubuntu Live CD (ISO) image. Cubic features an integrated command line chroot environment to make the customizations and permits effortless navigation, backward and forward, through the ISO generation steps.
 
-![Cubic](https://github.com/verkiya/Dev-untu/blob/master/images/cubic.png)
+![Cubic](https://github.com/v3rkiya/Dev-untu/blob/master/images/cubic.png)
 
 You can create new customization projects or modify existing projects. Important parameters are automatically populated with intelligent defaults to simplify the customization process.
 
-![Cubic Prerequisites](https://github.com/verkiya/Dev-untu/blob/master/images/cubic%20prerequisites.png)
+![Cubic Prerequisites](https://github.com/v3rkiya/Dev-untu/blob/master/images/cubic%20prerequisites.png)
 
 For CUBIC Installation-
 
@@ -56,7 +56,7 @@ For CUBIC Installation-
 
 ## CREDITS
 
-* **Himanshu Verkiya** - _Initial Work_ - [Verkiya ](https://github.com/Verkiya)
+* **Himanshu Verkiya** - _Initial Work_ - [v3rkiya ](https://github.com/v3rkiya)
 
 * Project made for Educational-Purposes _only_.
 
