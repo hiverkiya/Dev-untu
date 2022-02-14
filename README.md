@@ -23,7 +23,7 @@ DEV-UNTU is a Custom Made Distribution based on **Ubuntu-GNOME 16.04.3 2018.05.0
 
 ## INSTALLATION
 
- - Download the ISO from the given link [Dev-untu](https://drive.google.com/file/d/1KACdtCveXt1b3-wXHiAOyFgetXzIiqaM/view?usp=sharing)
+ - Download the ISO from the given link [Dev-untu](https://drive.google.com/file/d/1lIjJj5UuRXd4CPuc7SUcaitYhgcsJarY/view?usp=sharing)
  
  - For Dual-Boot  , make a bootable USB-drive using [Rufus](https://rufus.ie/)
  
